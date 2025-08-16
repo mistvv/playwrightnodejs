@@ -1,0 +1,20 @@
+{
+  "name": "playwright-testing-framework",
+  "version": "1.0.0",
+  "description": "A basic structure for a Node.js and Playwright web testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "playwright": "^1.42.1"
+  }
+}
